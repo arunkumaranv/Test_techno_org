@@ -1,0 +1,2456 @@
+{
+  "version": 2,
+  "orgId": "00D2y000001O2UcEAK",
+  "writtenAt": "2026-10-08T07:04:49.440Z",
+  "generation": 197,
+  "inventory": [],
+  "sobjects": {
+    "descriptions": []
+  },
+  "tracking": [],
+  "metadataTypes": [
+    {
+      "xmlName": "ActionLauncherItemDef",
+      "directoryName": "ActionLauncherItemDef",
+      "suffix": "actionLauncherItemDef",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ActionLinkGroupTemplate",
+      "directoryName": "actionLinkGroupTemplates",
+      "suffix": "actionLinkGroupTemplate",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "AiAgentScorerDefinition",
+      "directoryName": "aiAgentScorerDefinitions",
+      "suffix": "aiAgentScorerDefinition",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "AIApplication",
+      "directoryName": "aiApplications",
+      "suffix": "ai",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "AIApplicationConfig",
+      "directoryName": "aiApplicationConfigs",
+      "suffix": "aiapplicationconfig",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "AiAuthoringBundle",
+      "directoryName": "aiAuthoringBundles",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "AiResponseFormat",
+      "directoryName": "aiResponseFormats",
+      "suffix": "aiResponseFormat",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [
+        "AiResponseFormatIstr"
+      ],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "AiSurface",
+      "directoryName": "aiSurfaces",
+      "suffix": "aiSurface",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [
+        "AiSurfaceInput",
+        "AiSurfaceInstruction"
+      ],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "AnalyticSnapshot",
+      "directoryName": "analyticSnapshots",
+      "suffix": "snapshot",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "AnimationRule",
+      "directoryName": "animationRules",
+      "suffix": "animationRule",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ApexClass",
+      "directoryName": "classes",
+      "suffix": "cls",
+      "inFolder": false,
+      "metaFile": true,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ApexComponent",
+      "directoryName": "components",
+      "suffix": "component",
+      "inFolder": false,
+      "metaFile": true,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ApexEmailNotifications",
+      "directoryName": "apexEmailNotifications",
+      "suffix": "notifications",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ApexPage",
+      "directoryName": "pages",
+      "suffix": "page",
+      "inFolder": false,
+      "metaFile": true,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ApexTestSuite",
+      "directoryName": "testSuites",
+      "suffix": "testSuite",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ApexTrigger",
+      "directoryName": "triggers",
+      "suffix": "trigger",
+      "inFolder": false,
+      "metaFile": true,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ApiNamedQuery",
+      "directoryName": "apiNamedQueries",
+      "suffix": "apiNamedQuery",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "AppFrameworkTemplateBundle",
+      "directoryName": "appTemplates",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "AppMenu",
+      "directoryName": "appMenus",
+      "suffix": "appMenu",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "AppointmentAssignmentPolicy",
+      "directoryName": "appointmentAssignmentPolicies",
+      "suffix": "policy",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "AppointmentSchedulingPolicy",
+      "directoryName": "appointmentSchedulingPolicies",
+      "suffix": "policy",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ApprovalProcess",
+      "directoryName": "approvalProcesses",
+      "suffix": "approvalProcess",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "AssignmentRules",
+      "directoryName": "assignmentRules",
+      "suffix": "assignmentRules",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [
+        "AssignmentRule"
+      ],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "AuraDefinitionBundle",
+      "directoryName": "aura",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "AuthProvider",
+      "directoryName": "authproviders",
+      "suffix": "authprovider",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "AutoResponseRules",
+      "directoryName": "autoResponseRules",
+      "suffix": "autoResponseRules",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [
+        "AutoResponseRule"
+      ],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "BlacklistedConsumer",
+      "directoryName": "blacklistedConsumers",
+      "suffix": "blacklistedConsumer",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "Bot",
+      "directoryName": "bots",
+      "suffix": "bot",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [
+        "BotVersion"
+      ],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "BotBlock",
+      "directoryName": "botBlocks",
+      "suffix": "botBlock",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [
+        "BotBlockVersion"
+      ],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "BotTemplate",
+      "directoryName": "botTemplates",
+      "suffix": "botTemplate",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "BrandingSet",
+      "directoryName": "brandingSets",
+      "suffix": "brandingSet",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "BriefcaseDefinition",
+      "directoryName": "briefcaseDefinitions",
+      "suffix": "briefcaseDefinition",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "CallCenter",
+      "directoryName": "callCenters",
+      "suffix": "callCenter",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "CallCoachingMediaProvider",
+      "directoryName": "callCoachingMediaProviders",
+      "suffix": "callCoachingMediaProvider",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "CanvasMetadata",
+      "directoryName": "Canvases",
+      "suffix": "Canvas",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "CatalogedApi",
+      "directoryName": "catalogedApis",
+      "suffix": "catalogedApi",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "CatalogedApiArtifactVersionInfo",
+      "directoryName": "catalogedApiArtifactVersionInfos",
+      "suffix": "catalogedApiArtifactVersionInfo",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "CatalogedApiVersion",
+      "directoryName": "catalogedApiVersions",
+      "suffix": "catalogedApiVersion",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "Certificate",
+      "directoryName": "certs",
+      "suffix": "crt",
+      "inFolder": false,
+      "metaFile": true,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ChannelLayout",
+      "directoryName": "channelLayouts",
+      "suffix": "channelLayout",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ChatterExtension",
+      "directoryName": "ChatterExtensions",
+      "suffix": "ChatterExtension",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ChoiceList",
+      "directoryName": "ChoiceList",
+      "suffix": "ChoiceList",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "CleanDataService",
+      "directoryName": "cleanDataServices",
+      "suffix": "cleanDataService",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "Community",
+      "directoryName": "communities",
+      "suffix": "community",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ConnectedApp",
+      "directoryName": "connectedApps",
+      "suffix": "connectedApp",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ContentAsset",
+      "directoryName": "contentassets",
+      "suffix": "asset",
+      "inFolder": false,
+      "metaFile": true,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ContentTypeBundle",
+      "directoryName": "contentTypes",
+      "suffix": "contentType",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ConversationMessageDefinition",
+      "directoryName": "conversationMessageDefinitions",
+      "suffix": "conversationMessageDefinition",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ConvIntelligenceSignalRule",
+      "directoryName": "ConvIntelligenceSignalRule",
+      "suffix": "ConvIntelligenceSignalRule",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "CorsWhitelistOrigin",
+      "directoryName": "corsWhitelistOrigins",
+      "suffix": "corsWhitelistOrigin",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "CspTrustedSite",
+      "directoryName": "cspTrustedSites",
+      "suffix": "cspTrustedSite",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "CustomApplication",
+      "directoryName": "applications",
+      "suffix": "app",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "CustomApplicationComponent",
+      "directoryName": "customApplicationComponents",
+      "suffix": "customApplicationComponent",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "CustomFeedFilter",
+      "directoryName": "feedFilters",
+      "suffix": "feedFilter",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "CustomHelpMenuSection",
+      "directoryName": "customHelpMenuSections",
+      "suffix": "customHelpMenuSection",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "CustomIndex",
+      "directoryName": "customindex",
+      "suffix": "indx",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "CustomLabels",
+      "directoryName": "labels",
+      "suffix": "labels",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [
+        "CustomLabel"
+      ],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "CustomMetadata",
+      "directoryName": "customMetadata",
+      "suffix": "md",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "CustomNotificationType",
+      "directoryName": "notificationtypes",
+      "suffix": "notiftype",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "CustomObject",
+      "directoryName": "objects",
+      "suffix": "object",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [
+        "BusinessProcess",
+        "CompactLayout",
+        "CustomField",
+        "FieldSet",
+        "Index",
+        "ListView",
+        "RecordType",
+        "SharingReason",
+        "ValidationRule",
+        "WebLink"
+      ],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "CustomObjectTranslation",
+      "directoryName": "objectTranslations",
+      "suffix": "objectTranslation",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "CustomPageWebLink",
+      "directoryName": "weblinks",
+      "suffix": "weblink",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "CustomPermission",
+      "directoryName": "customPermissions",
+      "suffix": "customPermission",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "CustomSite",
+      "directoryName": "sites",
+      "suffix": "site",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "CustomTab",
+      "directoryName": "tabs",
+      "suffix": "tab",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "Dashboard",
+      "directoryName": "dashboards",
+      "suffix": "dashboard",
+      "inFolder": true,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "DataCategoryGroup",
+      "directoryName": "datacategorygroups",
+      "suffix": "datacategorygroup",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "DataWeaveResource",
+      "directoryName": "dw",
+      "suffix": "dwl",
+      "inFolder": false,
+      "metaFile": true,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "DelegateGroup",
+      "directoryName": "delegateGroups",
+      "suffix": "delegateGroup",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "DgtAssetMgmtProvider",
+      "directoryName": "dgtAssetMgmtProviders",
+      "suffix": "dgtAssetMgmtProvider",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "DgtAssetMgmtPrvdLghtCpnt",
+      "directoryName": "dgtAssetMgmtPrvdLghtCpnts",
+      "suffix": "dgtAssetMgmtPrvdLghtCpnt",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "DigitalExperienceBundle",
+      "directoryName": "digitalExperiences",
+      "suffix": "digitalExperience",
+      "inFolder": false,
+      "metaFile": true,
+      "childXmlNames": [
+        "DigitalExperience"
+      ],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "Document",
+      "directoryName": "documents",
+      "inFolder": true,
+      "metaFile": true,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "DuplicateRule",
+      "directoryName": "duplicateRules",
+      "suffix": "duplicateRule",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "EclairGeoData",
+      "directoryName": "eclair",
+      "suffix": "geodata",
+      "inFolder": false,
+      "metaFile": true,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "EmailServicesFunction",
+      "directoryName": "emailservices",
+      "suffix": "xml",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "EmailTemplate",
+      "directoryName": "email",
+      "suffix": "email",
+      "inFolder": true,
+      "metaFile": true,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "EmbeddedServiceBranding",
+      "directoryName": "EmbeddedServiceBranding",
+      "suffix": "EmbeddedServiceBranding",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "EmbeddedServiceConfig",
+      "directoryName": "EmbeddedServiceConfig",
+      "suffix": "EmbeddedServiceConfig",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "EmbeddedServiceFlowConfig",
+      "directoryName": "EmbeddedServiceFlowConfig",
+      "suffix": "EmbeddedServiceFlowConfig",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "EmbeddedServiceLiveAgent",
+      "directoryName": "EmbeddedServiceLiveAgent",
+      "suffix": "EmbeddedServiceLiveAgent",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "EmbeddedServiceMenuSettings",
+      "directoryName": "EmbeddedServiceMenuSettings",
+      "suffix": "EmbeddedServiceMenuSettings",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "EntitlementProcess",
+      "directoryName": "entitlementProcesses",
+      "suffix": "entitlementProcess",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "EntitlementTemplate",
+      "directoryName": "entitlementTemplates",
+      "suffix": "entitlementTemplate",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "EscalationRules",
+      "directoryName": "escalationRules",
+      "suffix": "escalationRules",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [
+        "EscalationRule"
+      ],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "EventRelayConfig",
+      "directoryName": "eventRelays",
+      "suffix": "eventRelay",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ExperienceContainer",
+      "directoryName": "experienceContainers",
+      "suffix": "experienceContainer",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ExperiencePropertyTypeBundle",
+      "directoryName": "experiencePropertyTypeBundles",
+      "suffix": "experiencePropertyTypeBundle",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ExternalAIModel",
+      "directoryName": "externalAIModels",
+      "suffix": "externalAIModel",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ExternalAuthIdentityProvider",
+      "directoryName": "externalAuthIdentityProviders",
+      "suffix": "externalAuthIdentityProvider",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ExternalClientApplication",
+      "directoryName": "externalClientApps",
+      "suffix": "eca",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ExternalCredential",
+      "directoryName": "externalCredentials",
+      "suffix": "externalCredential",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ExternalDataSource",
+      "directoryName": "dataSources",
+      "suffix": "dataSource",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [
+        "ExternalDataSrcDescriptor"
+      ],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ExternalServiceRegistration",
+      "directoryName": "externalServiceRegistrations",
+      "suffix": "externalServiceRegistration",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ExtlClntAppCanvasSettings",
+      "directoryName": "extlClntAppCanvasSettings",
+      "suffix": "ecaCanvas",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ExtlClntAppConfigurablePolicies",
+      "directoryName": "extlClntAppPolicies",
+      "suffix": "ecaPlcy",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ExtlClntAppGlobalOauthSettings",
+      "directoryName": "extlClntAppGlobalOauthSets",
+      "suffix": "ecaGlblOauth",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ExtlClntAppMobileConfigurablePolicies",
+      "directoryName": "extlClntAppMobilePolicies",
+      "suffix": "ecaMobilePlcy",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ExtlClntAppMobileSettings",
+      "directoryName": "extlClntAppMobileSettings",
+      "suffix": "ecaMobile",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ExtlClntAppNotificationSettings",
+      "directoryName": "extlClntAppNotifSettings",
+      "suffix": "ecaNotifications",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ExtlClntAppOauthConfigurablePolicies",
+      "directoryName": "extlClntAppOauthPolicies",
+      "suffix": "ecaOauthPlcy",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ExtlClntAppOauthSecuritySettings",
+      "directoryName": "extlClntAppOauthSecuritySettings",
+      "suffix": "ecaOauthSecurity",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ExtlClntAppOauthSettings",
+      "directoryName": "extlClntAppOauthSettings",
+      "suffix": "ecaOauth",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ExtlClntAppPushConfigurablePolicies",
+      "directoryName": "extlClntAppPushPolicies",
+      "suffix": "ecaPushPlcy",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ExtlClntAppPushSettings",
+      "directoryName": "extlClntAppPushSettings",
+      "suffix": "ecaPush",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ExtlClntAppSamlConfigurablePolicies",
+      "directoryName": "extlClntAppSamlConfigurablePolicies",
+      "suffix": "ecaSamlPlcy",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "FieldRestrictionRule",
+      "directoryName": "fieldRestrictionRules",
+      "suffix": "rule",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "FlexiPage",
+      "directoryName": "flexipages",
+      "suffix": "flexipage",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "Flow",
+      "directoryName": "flows",
+      "suffix": "flow",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "FlowCategory",
+      "directoryName": "flowCategories",
+      "suffix": "flowCategory",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "FlowDefinition",
+      "directoryName": "flowDefinitions",
+      "suffix": "flowDefinition",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "FlowTest",
+      "directoryName": "flowtests",
+      "suffix": "flowtest",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "FlowValueMap",
+      "directoryName": "flowValueMaps",
+      "suffix": "flowvaluemap",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "GatewayProviderPaymentMethodType",
+      "directoryName": "gatewayProviderPaymentMethodTypes",
+      "suffix": "gatewayProviderPaymentMethodType",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "GenAiFunction",
+      "directoryName": "genAiFunctions",
+      "suffix": "genAiFunction",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "GenAiPlannerBundle",
+      "directoryName": "genAiPlannerBundles",
+      "suffix": "genAiPlannerBundle",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "GenAiPlugin",
+      "directoryName": "genAiPlugins",
+      "suffix": "genAiPlugin",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "GenAiPromptTemplate",
+      "directoryName": "genAiPromptTemplates",
+      "suffix": "genAiPromptTemplate",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "GenAiPromptTemplateActv",
+      "directoryName": "genAiPromptTemplateActivations",
+      "suffix": "genAiPromptTemplateActivation",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "GlobalValueSet",
+      "directoryName": "globalValueSets",
+      "suffix": "globalValueSet",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "GlobalValueSetTranslation",
+      "directoryName": "globalValueSetTranslations",
+      "suffix": "globalValueSetTranslation",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "Group",
+      "directoryName": "groups",
+      "suffix": "group",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "HomePageComponent",
+      "directoryName": "homePageComponents",
+      "suffix": "homePageComponent",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "HomePageLayout",
+      "directoryName": "homePageLayouts",
+      "suffix": "homePageLayout",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "IframeWhiteListUrlSettings",
+      "directoryName": "iframeWhiteListUrlSettings",
+      "suffix": "iframeWhiteListUrlSettings",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "InboundNetworkConnection",
+      "directoryName": "inboundNetworkConnections",
+      "suffix": "inboundNetworkConnection",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "InvocableActionExtension",
+      "directoryName": "invocableactionextensions",
+      "suffix": "invocableactionextension",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "IPAddressRange",
+      "directoryName": "IPAddressRanges",
+      "suffix": "IPAddressRange",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "Layout",
+      "directoryName": "layouts",
+      "suffix": "layout",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "LeadConvertSettings",
+      "directoryName": "LeadConvertSettings",
+      "suffix": "LeadConvertSetting",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "Letterhead",
+      "directoryName": "letterhead",
+      "suffix": "letter",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "LightningBolt",
+      "directoryName": "lightningBolts",
+      "suffix": "lightningBolt",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "LightningComponentBundle",
+      "directoryName": "lwc",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "LightningExperienceTheme",
+      "directoryName": "lightningExperienceThemes",
+      "suffix": "lightningExperienceTheme",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "LightningMessageChannel",
+      "directoryName": "messageChannels",
+      "suffix": "messageChannel",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "LightningOnboardingConfig",
+      "directoryName": "lightningOnboardingConfigs",
+      "suffix": "lightningOnboardingConfig",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "LightningTypeBundle",
+      "directoryName": "lightningTypes",
+      "suffix": "lightningType",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "LiveChatAgentConfig",
+      "directoryName": "liveChatAgentConfigs",
+      "suffix": "liveChatAgentConfig",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "LiveChatButton",
+      "directoryName": "liveChatButtons",
+      "suffix": "liveChatButton",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "LiveChatDeployment",
+      "directoryName": "liveChatDeployments",
+      "suffix": "liveChatDeployment",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "LiveChatSensitiveDataRule",
+      "directoryName": "liveChatSensitiveDataRule",
+      "suffix": "liveChatSensitiveDataRule",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ManagedContentType",
+      "directoryName": "managedContentTypes",
+      "suffix": "managedContentType",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ManagedEventSubscription",
+      "directoryName": "managedEventSubscriptions",
+      "suffix": "managedEventSubscription",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "MatchingRules",
+      "directoryName": "matchingRules",
+      "suffix": "matchingRule",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [
+        "MatchingRule"
+      ],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "McpServerDefinition",
+      "directoryName": "mcpServerDefinitions",
+      "suffix": "mcpServerDefinition",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "MessagingChannel",
+      "directoryName": "messagingChannels",
+      "suffix": "messagingChannel",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "MilestoneType",
+      "directoryName": "milestoneTypes",
+      "suffix": "milestoneType",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "MLDataDefinition",
+      "directoryName": "mlDataDefinitions",
+      "suffix": "mlDataDefinition",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "MlDomain",
+      "directoryName": "mlDomains",
+      "suffix": "mlDomain",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "MLPredictionDefinition",
+      "directoryName": "mlPredictions",
+      "suffix": "mlPrediction",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "MLRecommendationDefinition",
+      "directoryName": "mlRecommendations",
+      "suffix": "mlRecommendation",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "MobileApplicationDetail",
+      "directoryName": "MobileApplicationDetails",
+      "suffix": "MobileApplicationDetail",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "MutingPermissionSet",
+      "directoryName": "mutingpermissionsets",
+      "suffix": "mutingpermissionset",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "MyDomainDiscoverableLogin",
+      "directoryName": "myDomainDiscoverableLogins",
+      "suffix": "myDomainDiscoverableLogin",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "NamedCredential",
+      "directoryName": "namedCredentials",
+      "suffix": "namedCredential",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "NetworkBranding",
+      "directoryName": "networkBranding",
+      "suffix": "networkBranding",
+      "inFolder": false,
+      "metaFile": true,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "NotificationTypeConfig",
+      "directoryName": "notificationTypeConfig",
+      "suffix": "config",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "OauthCustomScope",
+      "directoryName": "oauthcustomscopes",
+      "suffix": "oauthcustomscope",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "OauthTokenExchangeHandler",
+      "directoryName": "oauthtokenexchangehandlers",
+      "suffix": "oauthtokenexchangehandler",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "OmniSupervisorConfig",
+      "directoryName": "omniSupervisorConfigs",
+      "suffix": "omniSupervisorConfig",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "OutboundNetworkConnection",
+      "directoryName": "outboundNetworkConnections",
+      "suffix": "outboundNetworkConnection",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "PathAssistant",
+      "directoryName": "pathAssistants",
+      "suffix": "pathAssistant",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "PaymentGatewayProvider",
+      "directoryName": "paymentGatewayProviders",
+      "suffix": "paymentGatewayProvider",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "PermissionSet",
+      "directoryName": "permissionsets",
+      "suffix": "permissionset",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "PermissionSetGroup",
+      "directoryName": "permissionsetgroups",
+      "suffix": "permissionsetgroup",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "PermissionSetLicenseDefinition",
+      "directoryName": "permissionSetLicenseDefinitions",
+      "suffix": "permissionSetLicenseDefinition",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "PlatformCachePartition",
+      "directoryName": "cachePartitions",
+      "suffix": "cachePartition",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "PlatformEventChannel",
+      "directoryName": "platformEventChannels",
+      "suffix": "platformEventChannel",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "PlatformEventChannelMember",
+      "directoryName": "platformEventChannelMembers",
+      "suffix": "platformEventChannelMember",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "PlatformEventMigration",
+      "directoryName": "platformEventMigrations",
+      "suffix": "platformEventMigration",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "PlatformEventSubscriberConfig",
+      "directoryName": "PlatformEventSubscriberConfigs",
+      "suffix": "platformEventSubscriberConfig",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "PostTemplate",
+      "directoryName": "postTemplates",
+      "suffix": "postTemplate",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "PresenceDeclineReason",
+      "directoryName": "presenceDeclineReasons",
+      "suffix": "presenceDeclineReason",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "PresenceUserConfig",
+      "directoryName": "presenceUserConfigs",
+      "suffix": "presenceUserConfig",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ProcessFlowMigration",
+      "directoryName": "processflowmigrations",
+      "suffix": "processflowmigration",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ProductAttributeSet",
+      "directoryName": "productAttributeSets",
+      "suffix": "productAttributeSet",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ProfilePasswordPolicy",
+      "directoryName": "profilePasswordPolicies",
+      "suffix": "profilePasswordPolicy",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ProfileSessionSetting",
+      "directoryName": "profileSessionSettings",
+      "suffix": "profileSessionSetting",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "Prompt",
+      "directoryName": "prompts",
+      "suffix": "prompt",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "PublicKeyCertificate",
+      "directoryName": "PublicKeyCertificate",
+      "suffix": "PublicKeyCertificate",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "PublicKeyCertificateSet",
+      "directoryName": "PublicKeyCertificateSet",
+      "suffix": "PublicKeyCertificateSet",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "Queue",
+      "directoryName": "queues",
+      "suffix": "queue",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "QueueRoutingConfig",
+      "directoryName": "queueRoutingConfigs",
+      "suffix": "queueRoutingConfig",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "QuickAction",
+      "directoryName": "quickActions",
+      "suffix": "quickAction",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "RecommendationStrategy",
+      "directoryName": "recommendationStrategies",
+      "suffix": "recommendationStrategy",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "RecordActionDeployment",
+      "directoryName": "recordActionDeployments",
+      "suffix": "deployment",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "RedirectWhitelistUrl",
+      "directoryName": "redirectWhitelistUrls",
+      "suffix": "redirectWhitelistUrl",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "RemoteSiteSetting",
+      "directoryName": "remoteSiteSettings",
+      "suffix": "remoteSite",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "Report",
+      "directoryName": "reports",
+      "suffix": "report",
+      "inFolder": true,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ReportType",
+      "directoryName": "reportTypes",
+      "suffix": "reportType",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "RestrictionRule",
+      "directoryName": "restrictionRules",
+      "suffix": "rule",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "Role",
+      "directoryName": "roles",
+      "suffix": "role",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "SamlSsoConfig",
+      "directoryName": "samlssoconfigs",
+      "suffix": "samlssoconfig",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "SearchCustomization",
+      "directoryName": "searchCustomizations",
+      "suffix": "searchCustomization",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "SearchOrgWideObjectConfig",
+      "directoryName": "searchOrgWideConfiguration",
+      "suffix": "searchOrgWideObjectConfig",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ServiceAISetupDefinition",
+      "directoryName": "serviceAISetupDescriptions",
+      "suffix": "serviceAISetupDescription",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ServiceAISetupField",
+      "directoryName": "serviceAISetupFields",
+      "suffix": "serviceAISetupField",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ServiceChannel",
+      "directoryName": "serviceChannels",
+      "suffix": "serviceChannel",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "ServicePresenceStatus",
+      "directoryName": "servicePresenceStatuses",
+      "suffix": "servicePresenceStatus",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "Settings",
+      "directoryName": "settings",
+      "suffix": "settings",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "SharingRules",
+      "directoryName": "sharingRules",
+      "suffix": "sharingRules",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [
+        "SharingCriteriaRule",
+        "SharingGuestRule",
+        "SharingOwnerRule"
+      ],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "SharingSet",
+      "directoryName": "sharingSets",
+      "suffix": "sharingSet",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "SiteDotCom",
+      "directoryName": "siteDotComSites",
+      "suffix": "site",
+      "inFolder": false,
+      "metaFile": true,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "Skill",
+      "directoryName": "skills",
+      "suffix": "skill",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "SkillType",
+      "directoryName": "skilltypes",
+      "suffix": "skilltype",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "StandardValueSet",
+      "directoryName": "standardValueSets",
+      "suffix": "standardValueSet",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "StandardValueSetTranslation",
+      "directoryName": "standardValueSetTranslations",
+      "suffix": "standardValueSetTranslation",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "StaticDynamicValMapping",
+      "directoryName": "staticDynamicValMappings",
+      "suffix": "staticDynamicValMapping",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "StaticResource",
+      "directoryName": "staticresources",
+      "suffix": "resource",
+      "inFolder": false,
+      "metaFile": true,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "SynonymDictionary",
+      "directoryName": "synonymDictionaries",
+      "suffix": "synonymDictionary",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "TagSet",
+      "directoryName": "tagSet",
+      "suffix": "tagSet",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [
+        "Tag"
+      ],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "TopicsForObjects",
+      "directoryName": "topicsForObjects",
+      "suffix": "topicsForObjects",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "TransactionSecurityPolicy",
+      "directoryName": "transactionSecurityPolicies",
+      "suffix": "transactionSecurityPolicy",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "UIBundle",
+      "directoryName": "uiBundles",
+      "suffix": "uibundle",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "UiFormatSpecificationSet",
+      "directoryName": "uiFormatSpecificationSets",
+      "suffix": "uiFormatSpecificationSet",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "UserAccessPolicy",
+      "directoryName": "useraccesspolicies",
+      "suffix": "useraccesspolicy",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "UserProvisioningConfig",
+      "directoryName": "userProvisioningConfigs",
+      "suffix": "userProvisioningConfig",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "WaveAnalyticAssetCollection",
+      "directoryName": "wave",
+      "suffix": "collection",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "Workflow",
+      "directoryName": "workflows",
+      "suffix": "workflow",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [
+        "WorkflowAlert",
+        "WorkflowFieldUpdate",
+        "WorkflowFlowAutomation",
+        "WorkflowKnowledgePublish",
+        "WorkflowOutboundMessage",
+        "WorkflowRule",
+        "WorkflowSend",
+        "WorkflowTask"
+      ],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    },
+    {
+      "xmlName": "WorkSkillRouting",
+      "directoryName": "workSkillRoutings",
+      "suffix": "workSkillRouting",
+      "inFolder": false,
+      "metaFile": false,
+      "childXmlNames": [],
+      "observedAt": "2026-10-07T11:44:34.702Z"
+    }
+  ],
+  "metadataListings": [
+    {
+      "xmlName": "ApexClass",
+      "observedAt": "2026-10-07T11:44:37.961Z",
+      "components": [
+        {
+          "fullName": "AccountHandler",
+          "manageableState": "unmanaged",
+          "fileName": "classes/AccountHandler.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2026-05-30T06:55:59.000Z"
+        },
+        {
+          "fullName": "assignmentController",
+          "manageableState": "unmanaged",
+          "fileName": "classes/assignmentController.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2024-04-04T12:24:23.000Z"
+        },
+        {
+          "fullName": "AuthenticationDetail",
+          "manageableState": "unmanaged",
+          "fileName": "classes/AuthenticationDetail.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2024-07-04T09:18:47.000Z"
+        },
+        {
+          "fullName": "AutocreatedRegHandler1692797000330",
+          "manageableState": "unmanaged",
+          "fileName": "classes/AutocreatedRegHandler1692797000330.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2023-08-23T13:23:20.000Z"
+        },
+        {
+          "fullName": "BatchTest",
+          "manageableState": "unmanaged",
+          "fileName": "classes/BatchTest.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2026-06-01T05:41:17.000Z"
+        },
+        {
+          "fullName": "BatchTest1",
+          "manageableState": "unmanaged",
+          "fileName": "classes/BatchTest1.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2025-01-29T13:23:24.000Z"
+        },
+        {
+          "fullName": "BatchTest2",
+          "manageableState": "unmanaged",
+          "fileName": "classes/BatchTest2.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2026-06-01T05:30:13.000Z"
+        },
+        {
+          "fullName": "BoardController",
+          "manageableState": "unmanaged",
+          "fileName": "classes/BoardController.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2026-08-24T11:50:14.000Z"
+        },
+        {
+          "fullName": "calculatorServices",
+          "manageableState": "unmanaged",
+          "fileName": "classes/calculatorServices.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2021-01-28T05:28:49.000Z"
+        },
+        {
+          "fullName": "CampaignSegmentController",
+          "manageableState": "unmanaged",
+          "fileName": "classes/CampaignSegmentController.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2026-02-05T11:54:45.000Z"
+        },
+        {
+          "fullName": "caseHandle",
+          "manageableState": "unmanaged",
+          "fileName": "classes/caseHandle.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2025-02-13T01:19:52.000Z"
+        },
+        {
+          "fullName": "CaseHandler",
+          "manageableState": "unmanaged",
+          "fileName": "classes/CaseHandler.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2023-09-03T17:35:01.000Z"
+        },
+        {
+          "fullName": "CaseManagementController",
+          "manageableState": "unmanaged",
+          "fileName": "classes/CaseManagementController.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2026-07-29T13:39:53.000Z"
+        },
+        {
+          "fullName": "CaseRetrievalController",
+          "manageableState": "unmanaged",
+          "fileName": "classes/CaseRetrievalController.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2026-07-29T13:39:53.000Z"
+        },
+        {
+          "fullName": "ContactHandler",
+          "manageableState": "unmanaged",
+          "fileName": "classes/ContactHandler.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2026-05-30T17:43:10.000Z"
+        },
+        {
+          "fullName": "Createaccountcls",
+          "manageableState": "unmanaged",
+          "fileName": "classes/Createaccountcls.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2021-02-18T10:09:09.000Z"
+        },
+        {
+          "fullName": "Createaccountctl",
+          "manageableState": "unmanaged",
+          "fileName": "classes/Createaccountctl.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2021-02-18T10:23:11.000Z"
+        },
+        {
+          "fullName": "customAssignmentHandler",
+          "manageableState": "unmanaged",
+          "fileName": "classes/customAssignmentHandler.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2024-04-05T09:33:26.000Z"
+        },
+        {
+          "fullName": "customerDetailsController",
+          "manageableState": "unmanaged",
+          "fileName": "classes/customerDetailsController.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2023-05-25T07:19:09.000Z"
+        },
+        {
+          "fullName": "DynamicCallout",
+          "manageableState": "unmanaged",
+          "fileName": "classes/DynamicCallout.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2025-02-12T09:54:25.000Z"
+        },
+        {
+          "fullName": "FreshDeskApiService",
+          "manageableState": "unmanaged",
+          "fileName": "classes/FreshDeskApiService.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2026-09-04T12:14:11.000Z"
+        },
+        {
+          "fullName": "FreshDeskTicketController",
+          "manageableState": "unmanaged",
+          "fileName": "classes/FreshDeskTicketController.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2026-09-04T08:33:01.000Z"
+        },
+        {
+          "fullName": "jobApplicationController",
+          "manageableState": "unmanaged",
+          "fileName": "classes/jobApplicationController.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2023-10-09T10:02:40.000Z"
+        },
+        {
+          "fullName": "oppHandler",
+          "manageableState": "unmanaged",
+          "fileName": "classes/oppHandler.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2026-06-25T16:02:47.000Z"
+        },
+        {
+          "fullName": "OppLineItemHandler",
+          "manageableState": "unmanaged",
+          "fileName": "classes/OppLineItemHandler.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2026-05-31T18:15:22.000Z"
+        },
+        {
+          "fullName": "PraticeClass",
+          "manageableState": "unmanaged",
+          "fileName": "classes/PraticeClass.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2026-05-16T01:28:00.000Z"
+        },
+        {
+          "fullName": "PrintAccDetails",
+          "manageableState": "unmanaged",
+          "fileName": "classes/PrintAccDetails.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2025-07-24T10:50:28.000Z"
+        },
+        {
+          "fullName": "ResponseTime__BatchUpdateFirstActivityOnLead",
+          "namespacePrefix": "ResponseTime",
+          "manageableState": "installed",
+          "fileName": "classes/ResponseTime__BatchUpdateFirstActivityOnLead.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2023-10-09T13:17:34.000Z"
+        },
+        {
+          "fullName": "ResponseTime__BatchUpdateFirstActivityOnSObject",
+          "namespacePrefix": "ResponseTime",
+          "manageableState": "installed",
+          "fileName": "classes/ResponseTime__BatchUpdateFirstActivityOnSObject.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2023-10-09T13:17:34.000Z"
+        },
+        {
+          "fullName": "ResponseTime__FLScheckUtility",
+          "namespacePrefix": "ResponseTime",
+          "manageableState": "installed",
+          "fileName": "classes/ResponseTime__FLScheckUtility.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2023-10-09T13:17:34.000Z"
+        },
+        {
+          "fullName": "ResponseTime__GetAccessVisibtyPermissionofFields",
+          "namespacePrefix": "ResponseTime",
+          "manageableState": "installed",
+          "fileName": "classes/ResponseTime__GetAccessVisibtyPermissionofFields.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2023-10-09T13:17:34.000Z"
+        },
+        {
+          "fullName": "ResponseTime__LeadClass",
+          "namespacePrefix": "ResponseTime",
+          "manageableState": "installed",
+          "fileName": "classes/ResponseTime__LeadClass.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2023-10-09T13:17:34.000Z"
+        },
+        {
+          "fullName": "ResponseTime__MetadataService",
+          "namespacePrefix": "ResponseTime",
+          "manageableState": "installed",
+          "fileName": "classes/ResponseTime__MetadataService.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2023-10-09T13:17:34.000Z"
+        },
+        {
+          "fullName": "ResponseTime__PostInstallationClass",
+          "namespacePrefix": "ResponseTime",
+          "manageableState": "installed",
+          "fileName": "classes/ResponseTime__PostInstallationClass.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2023-10-09T13:17:34.000Z"
+        },
+        {
+          "fullName": "ResponseTime__ResponseTimeConfigController",
+          "namespacePrefix": "ResponseTime",
+          "manageableState": "installed",
+          "fileName": "classes/ResponseTime__ResponseTimeConfigController.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2023-10-09T13:17:34.000Z"
+        },
+        {
+          "fullName": "ResponseTime__ResponseToolController",
+          "namespacePrefix": "ResponseTime",
+          "manageableState": "installed",
+          "fileName": "classes/ResponseTime__ResponseToolController.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2023-10-09T13:17:34.000Z"
+        },
+        {
+          "fullName": "ResponseTime__ResponseToolLookUpController",
+          "namespacePrefix": "ResponseTime",
+          "manageableState": "installed",
+          "fileName": "classes/ResponseTime__ResponseToolLookUpController.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2023-10-09T13:17:34.000Z"
+        },
+        {
+          "fullName": "ResponseTime__SubjectLookupController",
+          "namespacePrefix": "ResponseTime",
+          "manageableState": "installed",
+          "fileName": "classes/ResponseTime__SubjectLookupController.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2023-10-09T13:17:34.000Z"
+        },
+        {
+          "fullName": "ResponseTime__Test_FLScheckUtility",
+          "namespacePrefix": "ResponseTime",
+          "manageableState": "installed",
+          "fileName": "classes/ResponseTime__Test_FLScheckUtility.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2023-10-09T13:17:34.000Z"
+        },
+        {
+          "fullName": "ResponseTime__Test_MetadataService",
+          "namespacePrefix": "ResponseTime",
+          "manageableState": "installed",
+          "fileName": "classes/ResponseTime__Test_MetadataService.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2023-10-09T13:17:34.000Z"
+        },
+        {
+          "fullName": "ResponseTime__Test_OwnerChangeTgrANDLeadConversionTgr",
+          "namespacePrefix": "ResponseTime",
+          "manageableState": "installed",
+          "fileName": "classes/ResponseTime__Test_OwnerChangeTgrANDLeadConversionTgr.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2023-10-09T13:17:34.000Z"
+        },
+        {
+          "fullName": "ResponseTime__Test_PostInstallationClass",
+          "namespacePrefix": "ResponseTime",
+          "manageableState": "installed",
+          "fileName": "classes/ResponseTime__Test_PostInstallationClass.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2023-10-09T13:17:34.000Z"
+        },
+        {
+          "fullName": "ResponseTime__Test_SubjectLookupController",
+          "namespacePrefix": "ResponseTime",
+          "manageableState": "installed",
+          "fileName": "classes/ResponseTime__Test_SubjectLookupController.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2023-10-09T13:17:34.000Z"
+        },
+        {
+          "fullName": "ResponseTime__Test_TimeZoneMappingController",
+          "namespacePrefix": "ResponseTime",
+          "manageableState": "installed",
+          "fileName": "classes/ResponseTime__Test_TimeZoneMappingController.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2023-10-09T13:17:34.000Z"
+        },
+        {
+          "fullName": "ResponseTime__TestBatchUpdateFirstActivityOnLead",
+          "namespacePrefix": "ResponseTime",
+          "manageableState": "installed",
+          "fileName": "classes/ResponseTime__TestBatchUpdateFirstActivityOnLead.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2023-10-09T13:17:34.000Z"
+        },
+        {
+          "fullName": "ResponseTime__TestGetAccessVisibtyPermissionofFields",
+          "namespacePrefix": "ResponseTime",
+          "manageableState": "installed",
+          "fileName": "classes/ResponseTime__TestGetAccessVisibtyPermissionofFields.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2023-10-09T13:17:34.000Z"
+        },
+        {
+          "fullName": "ResponseTime__TestResponseTimeConfigController",
+          "namespacePrefix": "ResponseTime",
+          "manageableState": "installed",
+          "fileName": "classes/ResponseTime__TestResponseTimeConfigController.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2023-10-09T13:17:34.000Z"
+        },
+        {
+          "fullName": "ResponseTime__TestResponseToolController",
+          "namespacePrefix": "ResponseTime",
+          "manageableState": "installed",
+          "fileName": "classes/ResponseTime__TestResponseToolController.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2023-10-09T13:17:34.000Z"
+        },
+        {
+          "fullName": "ResponseTime__TestResponseToolLookUpController",
+          "namespacePrefix": "ResponseTime",
+          "manageableState": "installed",
+          "fileName": "classes/ResponseTime__TestResponseToolLookUpController.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2023-10-09T13:17:34.000Z"
+        },
+        {
+          "fullName": "ResponseTime__TestUpdatEventCreatDatOnActDatTrigger",
+          "namespacePrefix": "ResponseTime",
+          "manageableState": "installed",
+          "fileName": "classes/ResponseTime__TestUpdatEventCreatDatOnActDatTrigger.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2023-10-09T13:17:34.000Z"
+        },
+        {
+          "fullName": "ResponseTime__TestUpdatTaskCreatDateOnActivDateTrigger",
+          "namespacePrefix": "ResponseTime",
+          "manageableState": "installed",
+          "fileName": "classes/ResponseTime__TestUpdatTaskCreatDateOnActivDateTrigger.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2023-10-09T13:17:34.000Z"
+        },
+        {
+          "fullName": "ResponseTime__TimeZoneMappingController",
+          "namespacePrefix": "ResponseTime",
+          "manageableState": "installed",
+          "fileName": "classes/ResponseTime__TimeZoneMappingController.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2023-10-09T13:17:34.000Z"
+        },
+        {
+          "fullName": "ResponseTime__TriggerHandlerClass",
+          "namespacePrefix": "ResponseTime",
+          "manageableState": "installed",
+          "fileName": "classes/ResponseTime__TriggerHandlerClass.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2023-10-09T13:17:34.000Z"
+        },
+        {
+          "fullName": "SendMailToUser",
+          "manageableState": "unmanaged",
+          "fileName": "classes/SendMailToUser.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2025-05-28T06:05:10.000Z"
+        },
+        {
+          "fullName": "Testclass",
+          "manageableState": "unmanaged",
+          "fileName": "classes/Testclass.cls",
+          "lastModifiedByName": "Arunkumaran v",
+          "lastModifiedDate": "2026-06-04T07:11:20.000Z"
+        }
+      ]
+    }
+  ]
+}
