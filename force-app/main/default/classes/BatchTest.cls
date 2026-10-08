@@ -41,6 +41,7 @@ global class BatchTest implements Database.Batchable<sObject>, Database.Stateful
 
     // global void finish(Database.BatchableContext bc) {
       // changes for New Feature Branch
+      // New class changes added in newFeature2.0 branch
     }
     
     
