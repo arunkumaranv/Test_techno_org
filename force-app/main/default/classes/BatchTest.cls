@@ -27,7 +27,7 @@ global class BatchTest implements Database.Batchable<sObject>, Database.Stateful
          
           //System.debug('final list:::'+srList);
  
-           // update objCon;
+            update objCon;
         }
         
     }
