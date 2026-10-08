@@ -38,6 +38,10 @@ global class BatchTest implements Database.Batchable<sObject>, Database.Stateful
        // List<Id> lstIds = new List<Id>{'006Ie000002ls82IAA', '006Ie000002ls82IAA'};
       //  FutureTestClass.getDetails(lstIds);
     }
+
+    // global void finish(Database.BatchableContext bc) {
+      // changes for New Feature Branch
+    }
     
     
     
