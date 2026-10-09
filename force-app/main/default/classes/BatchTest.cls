@@ -40,7 +40,7 @@ global class BatchTest implements Database.Batchable<sObject>, Database.Stateful
     }
 
     // global void finish(Database.BatchableContext bc) {
-      // New class changes added from newFeature2.0 branch
+  
     }
     
     
